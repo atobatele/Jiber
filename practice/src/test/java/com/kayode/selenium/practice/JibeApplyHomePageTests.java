@@ -9,9 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 
 
-/**
- * Unit test for simple App.
- */
+
 public class JibeApplyHomePageTests 
     
 {
